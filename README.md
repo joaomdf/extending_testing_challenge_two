@@ -22,21 +22,26 @@ Finally some of the prepared test scenarios were run with the most relevant ones
 |5.|100 records|1|Does not exist|Exists for all original records|Empty|Records with hyphen or accents in name end up in Finals without hyphen/accent|
 
 Test 1
+
 ![Screenshot 2023-02-01 at 12 15 00](https://user-images.githubusercontent.com/115627873/216039935-4a1c1285-122b-4861-b66a-50e03d76d1da.png)
 ![Screenshot 2023-02-01 at 12 15 49](https://user-images.githubusercontent.com/115627873/216040047-c5a90633-99c8-4b9b-9be4-303eaa1a36d6.png)
 
 
 Test 2
+
 ![Screenshot 2023-02-01 at 10 03 52](https://user-images.githubusercontent.com/115627873/216038913-84f75c2a-315e-4c7d-9b9c-f2f8f8f0e244.png)
 
 Test 3
+
 ![Screenshot 2023-02-01 at 10 14 47](https://user-images.githubusercontent.com/115627873/216039065-a3921be5-e952-4234-8e7b-52eb74421789.png)
 ![Screenshot 2023-02-01 at 10 15 02](https://user-images.githubusercontent.com/115627873/216039134-9f0f779f-f59e-47e7-8222-b13e25d20b50.png)
 
 Test 4
+
 ![Screenshot 2023-02-01 at 10 26 19](https://user-images.githubusercontent.com/115627873/216039313-46b4d48e-614c-4e73-b45c-157039882c44.png)
 
 Test 5
+
 ![Screenshot 2023-02-01 at 10 30 23](https://user-images.githubusercontent.com/115627873/216039404-b66ad0b3-1e47-42d1-beac-1ce09fc4171f.png)
 
 
